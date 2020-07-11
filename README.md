@@ -6,4 +6,4 @@ Run in Python 3.x
 or convert to .exe if you want to
 
 Notes:
-C++ release is on it's way
+C++ will remain closed source but is available in the releases as executables.
